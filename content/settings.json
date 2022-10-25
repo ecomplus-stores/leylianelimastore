@@ -1,16 +1,16 @@
 {
   "domain": "www.leylianelimastore.com.br",
-  "repository": "ecomplus-stores/leylianelimastore",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#540015",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#fdc7ca",
+  "repository": "ecomplus-stores/leylianelimastore",
   "logo": "/img/uploads/logo.png",
   "name": "Leyliane Lima Store",
-  "short_name": "leylianelimastore",
+  "short_name": "Leyliane Lima Store",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,9 +18,9 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#8c8c8c",
   "icon": "/img/icon.png",
   "store_id": 45881,
-  "description": "leylianelimastore",
+  "description": "O MELHOR PRÉ TREINO É UM LOOK NOVO",
   "large_icon": "/img/large-icon.png"
 }
