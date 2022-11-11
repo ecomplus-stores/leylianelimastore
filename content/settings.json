@@ -6,7 +6,7 @@
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#8c8c8c",
+  "bg_color": "#fdc7ca",
   "repository": "ecomplus-stores/leylianelimastore",
   "logo": "/img/uploads/loja2.jpeg",
   "name": "Leyliane Lima Store",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/loja2.jpeg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#fdc7ca",
+  "secondary_color": "#ffffff",
   "icon": "/img/uploads/loja2.jpeg",
   "store_id": 45881,
   "description": "O MELHOR PRÉ TREINO É UM LOOK NOVO",
