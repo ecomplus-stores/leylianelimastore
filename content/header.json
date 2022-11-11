@@ -3,7 +3,7 @@
     "text": "O MELHOR PRÉ TREINO É UM LOOK NOVO",
     "link": "",
     "background": "#540015",
-    "color": "#8c8c8c"
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [],
@@ -12,7 +12,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 2,
     "full_width": true
   },
   "desktop_megamenu": false,
