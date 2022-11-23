@@ -8,19 +8,9 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/fa23a252-d36b-4568-8d3d-1aba8fe6414c.jpeg",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": ""
-        },
-        {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/eb685024-bb4e-4acd-b0e4-ad32a670a1f4.png"
         }
       ]
     },
