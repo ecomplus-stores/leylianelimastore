@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Enviamos para todo o Brasil"
+    "text": "ENVIOS PARA TODO BRASIL"
   },
   "installments": {
     "show": true,
-    "text": "Parcele até 5X sem juros "
+    "text": "ATÉ 5X SEM JUROS "
   },
   "exchange": {
     "show": false,
     "text": ""
   },
   "promo": {
-    "show": false,
-    "text": "10% de desconto à vista "
+    "show": true,
+    "text": "10% OFF NO PIX"
   }
 }
