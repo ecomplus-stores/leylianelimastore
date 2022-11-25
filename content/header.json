@@ -8,7 +8,7 @@
   "contacts_stripe": {
     "pages": [],
     "phone_wpp": true,
-    "socials": false
+    "socials": true
   },
   "categories_list": {
     "featured": [],
@@ -17,6 +17,6 @@
   },
   "desktop_megamenu": true,
   "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
