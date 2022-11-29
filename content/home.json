@@ -24,16 +24,14 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-11-23T14:17:26.277Z",
-      "end": "2022-11-23T14:17:26.298Z"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     }
   ]
 }
