@@ -9,9 +9,14 @@
     "list": []
   },
   "links_2": {
-    "list_categories": false,
+    "list_categories": true,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {
+        "text": "WhatsApp",
+        "url": "https://wa.me/message/ROH3MKGBFE2RF1"
+      }
+    ]
   },
   "contacts": {
     "title": "Redes Sociais",
