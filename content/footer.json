@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "Formas de Pagamentos",
-    "text": ""
+    "title": "",
+    "text": "Formas de Pagamentos"
   },
   "links_1": {
     "list_pages": true,
@@ -44,7 +44,7 @@
     "diners": false,
     "mais": false,
     "pix": true,
-    "amex": true,
+    "amex": false,
     "itau": false
   },
   "credits": ""
