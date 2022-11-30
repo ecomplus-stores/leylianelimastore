@@ -17,7 +17,7 @@
     "title": "REDES SOCIAIS",
     "phone_wpp": true,
     "socials": true,
-    "email": true,
+    "email": false,
     "address": true
   },
   "stamps": [
@@ -28,7 +28,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -36,7 +36,7 @@
     "elo": true,
     "hipercard": true,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": true,
     "mastercard": true,
     "citibank": false,
@@ -44,8 +44,8 @@
     "diners": false,
     "mais": false,
     "pix": true,
-    "amex": true,
-    "itau": true
+    "amex": false,
+    "itau": false
   },
   "credits": ""
 }
