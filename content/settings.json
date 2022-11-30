@@ -1,12 +1,12 @@
 {
   "domain": "www.leylianelimastore.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#f5f5dc",
+  "primary_color": "#fdc7ca",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#8c8c8c",
   "repository": "ecomplus-stores/leylianelimastore",
   "logo": "/img/uploads/1.png",
   "name": "Leyliane Lima Store",
