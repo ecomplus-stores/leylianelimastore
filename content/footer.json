@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "LEYLIANE LIMA STORE - O MELHOR PRÉ TREINO É UM LOOK NOVO",
-    "text": "FORMAS DE PAGAMENTO"
+    "title": "LEYLIANE LIMA STORE",
+    "text": "O melhor pré treino é um look novo"
   },
   "links_1": {
     "list_pages": true,
@@ -9,27 +9,22 @@
     "list": []
   },
   "links_2": {
-    "list_categories": false,
-    "title": "WHATSAPP",
-    "list": [
-      {
-        "text": "",
-        "url": "https://wa.me/message/ROH3MKGBFE2RF1"
-      }
-    ]
+    "list_categories": true,
+    "title": "CATEGORIAS",
+    "list": []
   },
   "contacts": {
     "title": "REDES SOCIAIS",
-    "phone_wpp": false,
+    "phone_wpp": true,
     "socials": true,
-    "email": false,
+    "email": true,
     "address": true
   },
   "stamps": [
     {
-      "src": "/img/uploads/1.png",
+      "src": "/img/uploads/aaa.png",
       "alt": "",
-      "link": ""
+      "link": "https://wa.me/message/ROH3MKGBFE2RF1"
     }
   ],
   "payment_methods": {
