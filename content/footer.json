@@ -21,7 +21,11 @@
     "address": true
   },
   "stamps": [
-    {}
+    {
+      "src": "/img/uploads/1.png",
+      "alt": "whatApp",
+      "link": "https://wa.me/message/ROH3MKGBFE2RF1"
+    }
   ],
   "payment_methods": {
     "bb": false,
