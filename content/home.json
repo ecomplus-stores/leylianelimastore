@@ -28,10 +28,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true
     }
   ]
 }
