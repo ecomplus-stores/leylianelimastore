@@ -1,25 +1,25 @@
 {
   "description": {
-    "title": "",
-    "text": "Formas de Pagamentos"
+    "title": "FORMAS DE PAGAMENTO",
+    "text": ""
   },
   "links_1": {
     "list_pages": true,
-    "title": "Conheça-nos",
+    "title": "CONHEÇA-NOS",
     "list": []
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categorias",
+    "title": "WHATSAPP",
     "list": [
       {
-        "text": "WhatsApp",
+        "text": "",
         "url": "https://wa.me/message/ROH3MKGBFE2RF1"
       }
     ]
   },
   "contacts": {
-    "title": "Redes Sociais",
+    "title": "REDES SOCIAIS",
     "phone_wpp": false,
     "socials": true,
     "email": false,
@@ -28,12 +28,12 @@
   "stamps": [
     {
       "src": "/img/uploads/1.png",
-      "alt": "Leyliane Lima Store",
-      "link": "https://wa.me/message/ROH3MKGBFE2RF1"
+      "alt": "",
+      "link": ""
     }
   ],
   "payment_methods": {
-    "bb": false,
+    "bb": true,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -41,7 +41,7 @@
     "elo": true,
     "hipercard": true,
     "hsbc": false,
-    "bradesco": false,
+    "bradesco": true,
     "santander": true,
     "mastercard": true,
     "citibank": false,
@@ -49,8 +49,8 @@
     "diners": false,
     "mais": false,
     "pix": true,
-    "amex": false,
-    "itau": false
+    "amex": true,
+    "itau": true
   },
   "credits": ""
 }
