@@ -1,6 +1,6 @@
 {
   "description": {
-    "title": "",
+    "title": "Formas de Pagamentos",
     "text": ""
   },
   "links_1": {
@@ -20,9 +20,11 @@
     "email": false,
     "address": true
   },
-  "stamps": [],
+  "stamps": [
+    {}
+  ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -30,16 +32,16 @@
     "elo": true,
     "hipercard": true,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": true,
     "mastercard": true,
     "citibank": false,
-    "hiper": true,
-    "diners": true,
+    "hiper": false,
+    "diners": false,
     "mais": false,
     "pix": true,
     "amex": true,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
