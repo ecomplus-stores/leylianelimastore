@@ -43,13 +43,10 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "6387a2af73321213f8fc0be2:categories:Calças Femininas:/calcas-femininas",
+      "sort": "slug",
+      "title": "Summer in Comfort"
     },
     {
       "type": "collection-shelf",
