@@ -25,10 +25,10 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 9,
+      "shuffle": true,
+      "limit": 8,
       "page": 1,
-      "title": "CONFIRA"
+      "title": "Vem Conferir"
     },
     {
       "type": "collection-shelf",
