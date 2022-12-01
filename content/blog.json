@@ -1,17 +1,13 @@
 {
-  "title": "Blog",
-  "meta_title": "Blog",
-  "meta_description": "Blog",
+  "title": "CONFIRA",
+  "meta_title": "",
+  "meta_description": "",
   "sections": [
-    {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
     {
       "type": "page-title"
     },
     {
-      "type": "blog",
+      "type": "breadcrumbs",
       "enabled": true
     }
   ]
