@@ -5,9 +5,6 @@
       "enabled": true
     },
     {
-      "type": "banners-grid"
-    },
-    {
       "type": "product-block",
       "enabled": true,
       "size_guide": {
