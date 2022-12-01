@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -18,10 +22,6 @@
           "img": "/img/uploads/0f119d40-7783-4210-b098-45516f76b205.png"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
