@@ -1,7 +1,7 @@
 {
   "description": {
     "title": "LEYLIANE LIMA STORE",
-    "text": "O melhor pré treino é um look novo"
+    "text": "O MELHOR PRÉ TREINO É UM LOOK NOVO"
   },
   "links_1": {
     "list_pages": true,
@@ -15,7 +15,7 @@
   },
   "contacts": {
     "title": "REDES SOCIAIS",
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true,
     "email": false,
     "address": true
@@ -34,9 +34,9 @@
     "aura": false,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
-    "bradesco": false,
+    "bradesco": true,
     "santander": true,
     "mastercard": true,
     "citibank": false,
@@ -44,7 +44,7 @@
     "diners": false,
     "mais": false,
     "pix": true,
-    "amex": false,
+    "amex": true,
     "itau": false
   },
   "credits": ""
