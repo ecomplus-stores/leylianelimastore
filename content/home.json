@@ -102,6 +102,18 @@
       "collection_id": "6387a3d573321213f8fc110e:categories:Blusas Femininas:/blusas-femininas",
       "sort": "slug",
       "title": "BLUSAS"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/d8f4a6dd-1ef4-4be1-ae69-cddf1bc2987c.jpeg"
+        }
+      ]
     }
   ]
 }
