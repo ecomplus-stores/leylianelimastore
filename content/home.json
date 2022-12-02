@@ -66,8 +66,16 @@
       "title": "CALÇAS"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/d8f4a6dd-1ef4-4be1-ae69-cddf1bc2987c.jpeg"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/d8f4a6dd-1ef4-4be1-ae69-cddf1bc2987c.jpeg"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
