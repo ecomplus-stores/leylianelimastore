@@ -4,18 +4,19 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 5000,
       "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/eb685024-bb4e-4acd-b0e4-ad32a670a1f4.png"
+          "img": "/img/uploads/87914cb9-ba93-403a-af69-edd11f40af62.png",
+          "mobile_img": "/img/uploads/63374faf-89f1-4d69-bb0e-17cddeead86e.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/0f119d40-7783-4210-b098-45516f76b205.png"
+          "img": "/img/uploads/4454cf58-5cb3-49c5-8334-7968569f9ef9.jpeg"
         }
       ]
     },
