@@ -31,6 +31,11 @@
       "title": "Vem Conferir"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/d17f4906-a7f1-43d2-a610-d3cd2b07e615.png",
+      "mobile_img": "/img/uploads/d17f4906-a7f1-43d2-a610-d3cd2b07e615.png"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 8,
