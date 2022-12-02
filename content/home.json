@@ -28,6 +28,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 8,
@@ -58,6 +62,10 @@
       "title": "Summer in Comfort"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/d8f4a6dd-1ef4-4be1-ae69-cddf1bc2987c.jpeg"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 8,
@@ -65,10 +73,6 @@
       "sort": "slug",
       "collection_id": "6387a3ee73321213f8fc1158:categories:Blusas Masculinas:/blusas-masculinas",
       "title": "Free and Evident"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
