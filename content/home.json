@@ -73,6 +73,10 @@
       "sort": "slug",
       "collection_id": "6387a39f73321213f8fc104d:categories:Tops:/tops",
       "title": "TOPS"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/a840634b-f717-4313-bbf6-50f365a48b61.png"
     }
   ]
 }
