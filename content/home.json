@@ -60,6 +60,18 @@
       "collection_id": "6387a2af73321213f8fc0be2:categories:Calças Femininas:/calcas-femininas",
       "sort": "slug",
       "title": "CALÇAS"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/a840634b-f717-4313-bbf6-50f365a48b61.png"
+        }
+      ]
     }
   ]
 }
