@@ -39,12 +39,6 @@
       "collection_id": "6387a31c73321213f8fc0ddc:categories:Conjuntos:/conjuntos",
       "sort": "slug",
       "title": "EXCLUSIVITY "
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": []
     }
   ]
 }
