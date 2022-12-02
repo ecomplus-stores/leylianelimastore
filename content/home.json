@@ -51,6 +51,15 @@
           "img": "/img/uploads/5c47c7e3-c449-4606-a4c3-b90e56932d5d.png"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 6,
+      "page": 1,
+      "collection_id": "6387a2af73321213f8fc0be2:categories:Calças Femininas:/calcas-femininas",
+      "sort": "slug",
+      "title": "CALÇAS"
     }
   ]
 }
