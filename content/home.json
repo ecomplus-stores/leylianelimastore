@@ -39,6 +39,19 @@
       "collection_id": "638a130473321213f8008329:collections:EXCLUSIVITY:/exclusivity",
       "sort": "slug",
       "title": "EXCLUSIVITY "
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "mobile_img": "/img/uploads/5c47c7e3-c449-4606-a4c3-b90e56932d5d.png",
+          "img": "/img/uploads/5c47c7e3-c449-4606-a4c3-b90e56932d5d.png"
+        }
+      ]
     }
   ]
 }
