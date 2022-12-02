@@ -81,6 +81,18 @@
       "collection_id": "6387a39f73321213f8fc104d:categories:Tops:/tops",
       "sort": "slug",
       "title": "TOPS"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/fa23a252-d36b-4568-8d3d-1aba8fe6414c.jpeg"
+        }
+      ]
     }
   ]
 }
