@@ -33,7 +33,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 20,
+      "limit": 15,
       "page": 1,
       "collection_id": "638a130473321213f8008329:collections:EXCLUSIVITY:/exclusivity",
       "sort": "slug",
