@@ -41,7 +41,14 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/cf099031-2e90-46a6-913a-5d9ea3b647b2.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
