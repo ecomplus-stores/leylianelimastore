@@ -116,12 +116,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 9,
+      "shuffle": true,
+      "limit": 10,
       "page": 1,
-      "sort": "slug",
-      "collection_id": "6387a3d573321213f8fc110e:categories:Blusas Femininas:/blusas-femininas",
-      "title": "BLUSAS"
+      "collection_id": "6397e49573321213f8128116:collections:COLEÇÃO FOR MAN:/colecao",
+      "sort": null,
+      "title": "COLEÇÃO FOR MAN"
     }
   ]
 }
