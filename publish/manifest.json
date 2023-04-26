@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.9d06abd22eb6016ebfbedf1369f67b57.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.57278a8acf8f3ee2d291acc9e3e27370.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.e043c95bb4d408d494a6e10ee67ab446.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.7deb61b8dbe919ee6fd6b16570caff9b.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.aea4bf51e6ec2e9e3ffd5749744df7ea.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Leyliane Lima Store",
+  "short_name": "Leyliane Lima Store",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "O MELHOR PRÉ TREINO É UM LOOK NOVO",
+  "background_color": "#8c8c8c",
+  "theme_color": "#540015"
+}
